@@ -40,6 +40,3 @@ Contributions are welcome! Feel free to fork the repo, make changes, and submit 
 
 ## License
 This project is licensed under the MIT License.
-
----
-Feel free to customize this as needed!

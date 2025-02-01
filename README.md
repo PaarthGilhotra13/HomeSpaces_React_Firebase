@@ -15,7 +15,7 @@
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/HomeSpaces.git
+   git clone https://github.com/PaarthGilhotra13/HomeSpaces_React_Firebase
    cd HomeSpaces
    ```
 2. Install dependencies:

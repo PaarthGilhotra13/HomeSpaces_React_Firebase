@@ -1,0 +1,36 @@
+.loginf {
+	margin-top: 60px;
+}
+.logincolor {
+	color: #054838;
+	background: linear-gradient(to left, #449362, #054838);
+}
+.forgot {
+	float: right;
+}
+.text {
+	text-align: right;
+}
+.dis {
+	display: flex;
+	align-items: center;
+}
+.margin {
+	width: 40px;
+}
+
+.my-modal {
+	width: 90vw; /* Occupy the 90% of the screen width */
+}
+.customModal {
+	top: 40px;
+	border-radius: 10px;
+}
+.customModal1 {
+	top: 70px;
+	border-radius: 10px;
+}
+.fontWeight{
+	font-weight: 300;
+	font-size: 2.2rem;
+}

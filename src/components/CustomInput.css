@@ -1,0 +1,16 @@
+.custom-input-container {
+    position: relative;
+  }
+  
+  .custom-input-container input {
+    padding-right: 30px; /* Add space on the right to accommodate the eye icon */
+  }
+  
+  .custom-input-container span {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+  

@@ -33,9 +33,9 @@ export default function Property() {
 	}, [])
 	return (
 		<>
-		 <div className="d-flex justify-content-center my-5 py-5">
+		 {/* <div className="d-flex justify-content-center my-5 py-5"> */}
                 <FadeLoader loading={load} cssOverride={override} size={50} color={"green"}/>
-            </div>
+            {/* </div> */}
             <div className={load?"disabled-screen-full":""}> 
 			<div class="click-closed"></div>
 			<div class="box-collapse">
